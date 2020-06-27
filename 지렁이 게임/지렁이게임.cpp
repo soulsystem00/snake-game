@@ -7,7 +7,7 @@
 #include <cstdlib>
 #include <ctime>
 
-#define MAX_SIZE 10
+#define MAX_SIZE 9
 using namespace std;
 
 void randomstar(int* ptr, vector<int> x, vector<int> y);
