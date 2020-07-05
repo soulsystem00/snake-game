@@ -5,6 +5,11 @@
 비주얼 스튜디오로 만든 코드이니깐  
 윈도우에서 다운 받아서 비주얼 스튜디오에서 실행시키시면 됨  
 
+<B>MAIN PAGE</B><br>
+<image src="https://github.com/soulsystem00/snake-game/blob/master/%EC%A7%80%EB%A0%81%EC%9D%B4%20%EA%B2%8C%EC%9E%84/pic/mainpage.PNG" width = 600 height = 313>  
+  
+<B>PLAYING PAGE</B><br>
+<image src = "https://github.com/soulsystem00/snake-game/blob/master/%EC%A7%80%EB%A0%81%EC%9D%B4%20%EA%B2%8C%EC%9E%84/pic/playingpage.PNG" width = 600 height = 313>
 
 ## 조작 방법
 
