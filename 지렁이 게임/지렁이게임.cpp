@@ -8,6 +8,7 @@ int main()
 
     while (1)
     {
+        start:
         int key;
         int map[MAX_SIZE][MAX_SIZE];
         vector<int> x;
@@ -20,6 +21,7 @@ int main()
         bool Ym = true;
         bool Yp = false;
         mainpage();
+        
         SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 7);
         initarry(map);
         storevector(X, Y, &x, &y);
@@ -81,8 +83,7 @@ int main()
             {
                 if (!gameover(x))
                 {
-                    endgame();
-                    return 0;
+                    goto start;
                 }
                 break;
             }
